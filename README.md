@@ -1,6 +1,6 @@
 # Hi, I'm Vinicius 👋
 
-🤓 Currently iOS Engineer at Itaú
+🤓 Currently iOS Engineer at Itaú <br>
 🇧🇷 Born in Fortaleza-CE, Brazil <br>
 🇧🇷 Living in São Paulo, Brazil <br>
 👯 Part of CocoaHeadsBr and [NSBrazil](https://nsbrazil.com/en/) <br>

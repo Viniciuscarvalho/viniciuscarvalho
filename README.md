@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, I'm Vinicius 👋
 
-<!--
-**Viniciuscarvalho/viniciuscarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤓 Currently iOS Engineer at Itaú
+🇧🇷 Born in Fortaleza-CE, Brazil <br>
+🇧🇷 Living in São Paulo, Brazil <br>
+👯 Part of CocoaHeadsBr and [NSBrazil](https://nsbrazil.com/en/) <br>
 
-Here are some ideas to get you started:
+### What I'm working on 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently building a blog - [SwiftMah](https://theswiftmah.com.br) <br>
+🌱 Currently learning SwiftUI with course of #100DaysOfSwiftUI by Paul Hudson. <br>
+
+### Find me 🌎
+
+🚀 [Site](https://theswiftmah.com.br) <br>
+🐦 [Twitter](https://twitter.com/viniciusc70) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/viniciuscarvalhomarques) <br>
+📫 [email](viniciuscarvalhom@icloud.com) <br>

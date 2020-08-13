@@ -1,6 +1,6 @@
 # Hi, I'm Vinicius 👋
 
-🤓 Currently iOS Engineer at Itaú <br>
+🤓 Currently iOS Engineer at iFood <br>
 🇧🇷 Born in Fortaleza-CE, Brazil <br>
 🇧🇷 Living in São Paulo, Brazil <br>
 👯 Part of CocoaHeadsBr and [NSBrazil](https://nsbrazil.com/en/) <br>
@@ -8,7 +8,7 @@
 ### What I'm working on 👨‍💻
 
 📚 Currently building a blog - [SwiftMah](https://theswiftmah.com.br) <br>
-🌱 Currently learning SwiftUI with course of #100DaysOfSwiftUI by Paul Hudson. <br>
+🌱 Currently learning SwiftUI on practice with [Reproduce Populars Apps in SwiftUI](https://github.com/Viniciuscarvalho/reproduce-projects-SwiftUI) <br>
 
 ### Find me 🌎
 

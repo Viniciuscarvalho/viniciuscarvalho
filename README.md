@@ -7,7 +7,8 @@
 
 ### What I'm working on 👨‍💻
 
-📚 Currently building a blog - [SwiftMah](https://theswiftmah.com.br) <br>
+📚 Mentor on DevPass and fellow too - [DevPass](https://devpass.com.br)<br>
+📑 Trying to keep the blog up to date - [SwiftMah](https://theswiftmah.com.br) <br>
 🌱 Currently learning SwiftUI on practice with [Reproduce Populars Apps in SwiftUI](https://github.com/Viniciuscarvalho/reproduce-projects-SwiftUI) <br>
 
 ### Find me 🌎

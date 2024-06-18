@@ -1,6 +1,6 @@
 # Hi, I'm Vinicius 👋
 
-🤓 Currently iOS Engineer at Mercado Livre <br>
+🤓 Currently iOS Software Engineer at Grupo OLX <br>
 🇧🇷 Born in Fortaleza-CE, Brazil <br>
 🇧🇷 Living in São Paulo, Brazil <br>
 👯 Part of CocoaHeadsBr and [NSBrazil](https://nsbrazil.com/en/) <br>

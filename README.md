@@ -21,8 +21,9 @@
 - 🧠 **[mindkit](https://github.com/Viniciuscarvalho/mindkit)** - Forge your AI development mind — Install and sync AI configs across Claude, Cursor, and Codex
 - 🧹 **[MacSweep](https://github.com/Viniciuscarvalho/Macsweep)** - Reclaim your Mac's disk space with a single command (Xcode, Docker, caches)
 - 🎯 **[Feature-marker](https://github.com/Viniciuscarvalho/Feature-marker)** - Automates feature development with a 4-phase workflow (PRD → Spec → Tasks → Code)
-- 🍺 **[homebrew-macsweep](https://github.com/Viniciuscarvalho/homebrew-macsweep)** - Homebrew tap for MacSweep
-- 🍺 **[homebrew-mindkit](https://github.com/Viniciuscarvalho/homebrew-mindkit)** - Homebrew tap for mindkit
+- 🧠 **[maestro](https://github.com/Viniciuscarvalho/maestro)** - Embemdded your skills on plugin
+- 🏗️ **[OmniLabs](https://github.com/Viniciuscarvalho/OmniLabs)** - Plug-and-play agent teams framework for Claude Code — multi-perspective strategic analysis for any project
+- 📟 **[slidedown](https://github.com/Viniciuscarvalho/slidedown)** - Transform Markdown files into spectacular presentations with 6 themes and AI-powered design
 
 ### Claude Code Skills
 - 🔍 **[swift-code-reviewer-skill](https://github.com/Viniciuscarvalho/swift-code-reviewer-skill)** - Make your Swift code-review easier again
@@ -32,7 +33,6 @@
 
 ### Apps & Side Projects
 - 🏋️ **[FitToday](https://github.com/Viniciuscarvalho/FitToday)** - Personalized workout plans, powered by AI
-- 🖥️ **[FitToday-cms](https://github.com/Viniciuscarvalho/FitToday-cms)** - CMS backend for FitToday
 - 🎵 **[WinampSpotifyPlayer](https://github.com/Viniciuscarvalho/WinampSpotifyPlayer)** - Retro Winamp vibes for Spotify
 - 🎧 **[musicaspot](https://github.com/Viniciuscarvalho/musicaspot)** - Conecte sua musicalidade em diferentes ambientes
 - 🍽️ **[ChooseThere](https://github.com/Viniciuscarvalho/ChooseThere)** - Find a place to eat in São Paulo with my curated list

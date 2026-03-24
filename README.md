@@ -24,19 +24,19 @@
 - 🧠 **[maestro](https://github.com/Viniciuscarvalho/maestro)** - Embemdded your skills on plugin
 - 🏗️ **[OmniLabs](https://github.com/Viniciuscarvalho/OmniLabs)** - Plug-and-play agent teams framework for Claude Code — multi-perspective strategic analysis for any project
 - 📟 **[slidedown](https://github.com/Viniciuscarvalho/slidedown)** - Transform Markdown files into spectacular presentations with 6 themes and AI-powered design
+- 🥇 **[mcs-pair-programming](https://github.com/Viniciuscarvalho/mcs-pair-programming)** - Tech stack from MCS project to guide in pair programming
 
 ### Claude Code Skills
 - 🔍 **[swift-code-reviewer-skill](https://github.com/Viniciuscarvalho/swift-code-reviewer-skill)** - Make your Swift code-review easier again
+- 🔄 **[marketing-agent](https://github.com/Viniciuscarvalho/marketing-agent)** - Skills and Agents to develop your product
 - 📋 **[enrich-jira-task-skill](https://github.com/Viniciuscarvalho/enrich-jira-task-skill)** - Enrich tasks with PM vision for your Jira workflow
 - 🔄 **[jira-workflow-agent-skill](https://github.com/Viniciuscarvalho/jira-workflow-agent-skill)** - Integrate workflow to ticket for delivery
 - 🚀 **[azure-pr-skills](https://github.com/Viniciuscarvalho/azure-pr-skills)** - Automates PR creation in Azure DevOps
 
 ### Apps & Side Projects
-- 🏋️ **[FitToday](https://github.com/Viniciuscarvalho/FitToday)** - Personalized workout plans, powered by AI
 - 🎵 **[WinampSpotifyPlayer](https://github.com/Viniciuscarvalho/WinampSpotifyPlayer)** - Retro Winamp vibes for Spotify
 - 🎧 **[musicaspot](https://github.com/Viniciuscarvalho/musicaspot)** - Conecte sua musicalidade em diferentes ambientes
 - 🍽️ **[ChooseThere](https://github.com/Viniciuscarvalho/ChooseThere)** - Find a place to eat in São Paulo with my curated list
-- 💰 **[gastandoya-api](https://github.com/Viniciuscarvalho/gastandoya-api)** - Backend service for expense tracking
 
 ### Community Resources
 - 📚 **[ios_interview](https://github.com/Viniciuscarvalho/ios_interview)** - Comprehensive iOS interview questions (59+ stars)

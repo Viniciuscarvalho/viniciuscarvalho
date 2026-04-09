@@ -21,7 +21,7 @@
 - 🧠 **[mindkit](https://github.com/Viniciuscarvalho/mindkit)** - Forge your AI development mind — Install and sync AI configs across Claude, Cursor, and Codex
 - 🧹 **[MacSweep](https://github.com/Viniciuscarvalho/Macsweep)** - Reclaim your Mac's disk space with a single command (Xcode, Docker, caches)
 - 🎯 **[Feature-marker](https://github.com/Viniciuscarvalho/Feature-marker)** - Automates feature development with a 4-phase workflow (PRD → Spec → Tasks → Code)
-- ▶️ **[sonar-swift](https://github.com/Viniciuscarvalho/sonar-swift) - PluggableLint for your projet iOS
+- ▶️ **[sonar-swift](https://github.com/Viniciuscarvalho/sonar-swift)** - PluggableLint for your projet iOS
 - 🧠 **[maestro](https://github.com/Viniciuscarvalho/maestro)** - Embemdded your skills on plugin
 - 🏗️ **[OmniLabs](https://github.com/Viniciuscarvalho/OmniLabs)** - Plug-and-play agent teams framework for Claude Code — multi-perspective strategic analysis for any project
 - 📟 **[slidedown](https://github.com/Viniciuscarvalho/slidedown)** - Transform Markdown files into spectacular presentations with 6 themes and AI-powered design

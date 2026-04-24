@@ -18,6 +18,7 @@
 ## Current Projects
 
 ### Developer Tools
+- ➿ **[monozukuri](https://github.com/Viniciuscarvalho/monozukuri)** - ものづくり — autonomous feature delivery, the art of making things
 - 🧠 **[mindkit](https://github.com/Viniciuscarvalho/mindkit)** - Forge your AI development mind — Install and sync AI configs across Claude, Cursor, and Codex
 - 🧹 **[MacSweep](https://github.com/Viniciuscarvalho/Macsweep)** - Reclaim your Mac's disk space with a single command (Xcode, Docker, caches)
 - 🎯 **[Feature-marker](https://github.com/Viniciuscarvalho/Feature-marker)** - Automates feature development with a 4-phase workflow (PRD → Spec → Tasks → Code)

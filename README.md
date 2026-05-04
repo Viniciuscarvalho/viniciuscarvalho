@@ -29,6 +29,7 @@
 - 🥇 **[mcs-pair-programming](https://github.com/Viniciuscarvalho/mcs-pair-programming)** - Tech stack from MCS project to guide in pair programming
 
 ### Claude Code Skills
+- 🅰️ **[ios-agent-team](https://github.com/Viniciuscarvalho/ios-agent-team)** - iOS team from specialized of knowledge
 - 🔍 **[swift-code-reviewer-skill](https://github.com/Viniciuscarvalho/swift-code-reviewer-skill)** - Make your Swift code-review easier again
 - 🔄 **[marketing-agent](https://github.com/Viniciuscarvalho/marketing-agent)** - Skills and Agents to develop your product
 - 📋 **[enrich-jira-task-skill](https://github.com/Viniciuscarvalho/enrich-jira-task-skill)** - Enrich tasks with PM vision for your Jira workflow

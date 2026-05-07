@@ -28,7 +28,9 @@
 - 📟 **[slidedown](https://github.com/Viniciuscarvalho/slidedown)** - Transform Markdown files into spectacular presentations with 6 themes and AI-powered design
 - 🥇 **[mcs-pair-programming](https://github.com/Viniciuscarvalho/mcs-pair-programming)** - Tech stack from MCS project to guide in pair programming
 
-### Claude Code Skills
+### Skills
+- 🧠 **[ci-guard](https://github.com/Viniciuscarvalho/ci-guard)** - Babysit system to avoid cycles repeat on CI
+- 🫀 ** [prompt-architect](https://github.com/Viniciuscarvalho/prompt-architect)** - Engineer prompts using the REASONS Canvas (SPDD methodology)
 - 🅰️ **[ios-agent-team](https://github.com/Viniciuscarvalho/ios-agent-team)** - iOS team from specialized of knowledge
 - 🔍 **[swift-code-reviewer-skill](https://github.com/Viniciuscarvalho/swift-code-reviewer-skill)** - Make your Swift code-review easier again
 - 🔄 **[marketing-agent](https://github.com/Viniciuscarvalho/marketing-agent)** - Skills and Agents to develop your product

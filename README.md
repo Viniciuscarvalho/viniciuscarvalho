@@ -19,6 +19,7 @@
 
 ### Developer Tools
 - ➿ **[monozukuri](https://github.com/Viniciuscarvalho/monozukuri)** - ものづくり — autonomous feature delivery, the art of making things
+- 🏗️ **[seb](https://github.com/Viniciuscarvalho/seb)** - Software Engineer Building setup of AI systems
 - 🧠 **[mindkit](https://github.com/Viniciuscarvalho/mindkit)** - Forge your AI development mind — Install and sync AI configs across Claude, Cursor, and Codex
 - 🧹 **[MacSweep](https://github.com/Viniciuscarvalho/Macsweep)** - Reclaim your Mac's disk space with a single command (Xcode, Docker, caches)
 - 🎯 **[Feature-marker](https://github.com/Viniciuscarvalho/Feature-marker)** - Automates feature development with a 4-phase workflow (PRD → Spec → Tasks → Code)
@@ -27,10 +28,11 @@
 - 🏗️ **[OmniLabs](https://github.com/Viniciuscarvalho/OmniLabs)** - Plug-and-play agent teams framework for Claude Code — multi-perspective strategic analysis for any project
 - 📟 **[slidedown](https://github.com/Viniciuscarvalho/slidedown)** - Transform Markdown files into spectacular presentations with 6 themes and AI-powered design
 - 🥇 **[mcs-pair-programming](https://github.com/Viniciuscarvalho/mcs-pair-programming)** - Tech stack from MCS project to guide in pair programming
+- ♟️ **[claude-pack](https://github.com/Viniciuscarvalho/claude-pack)** - Personal setup from Claude Code using MCS project portable
 
 ### Skills
 - 🧠 **[ci-guard](https://github.com/Viniciuscarvalho/ci-guard)** - Babysit system to avoid cycles repeat on CI
-- 🫀 ** [prompt-architect](https://github.com/Viniciuscarvalho/prompt-architect)** - Engineer prompts using the REASONS Canvas (SPDD methodology)
+- 🫀 **[prompt-architect](https://github.com/Viniciuscarvalho/prompt-architect)** - Engineer prompts using the REASONS Canvas (SPDD methodology)
 - 🅰️ **[ios-agent-team](https://github.com/Viniciuscarvalho/ios-agent-team)** - iOS team from specialized of knowledge
 - 🔍 **[swift-code-reviewer-skill](https://github.com/Viniciuscarvalho/swift-code-reviewer-skill)** - Make your Swift code-review easier again
 - 🔄 **[marketing-agent](https://github.com/Viniciuscarvalho/marketing-agent)** - Skills and Agents to develop your product

@@ -18,6 +18,7 @@
 ## Current Projects
 
 ### Developer Tools
+- 🔼 **[job-radar](https://github.com/Viniciuscarvalho/job-radar)** - search your job with ATS correct
 - ➿ **[monozukuri](https://github.com/Viniciuscarvalho/monozukuri)** - ものづくり — autonomous feature delivery, the art of making things
 - 🏗️ **[seb](https://github.com/Viniciuscarvalho/seb)** - Software Engineer Building setup of AI systems
 - 🧠 **[mindkit](https://github.com/Viniciuscarvalho/mindkit)** - Forge your AI development mind — Install and sync AI configs across Claude, Cursor, and Codex
@@ -41,6 +42,7 @@
 - 🚀 **[azure-pr-skills](https://github.com/Viniciuscarvalho/azure-pr-skills)** - Automates PR creation in Azure DevOps
 
 ### Apps & Side Projects
+- 🤖 **[AutoSecurity](https://github.com/Viniciuscarvalho/autosecurity)** - Project for Namastex interview for FDE
 - 🎵 **[WinampSpotifyPlayer](https://github.com/Viniciuscarvalho/WinampSpotifyPlayer)** - Retro Winamp vibes for Spotify
 - 🎧 **[musicaspot](https://github.com/Viniciuscarvalho/musicaspot)** - Conecte sua musicalidade em diferentes ambientes
 - 🍽️ **[ChooseThere](https://github.com/Viniciuscarvalho/ChooseThere)** - Find a place to eat in São Paulo with my curated list

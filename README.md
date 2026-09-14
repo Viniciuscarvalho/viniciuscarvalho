@@ -1,6 +1,6 @@
 # Hi, I'm Vinicius 👋
 
-📍 **São Paulo, Brazil** | 📱 **iOS Engineer since 2013** | 🚀 **Building tools for developers**
+📍 **São Paulo, Brazil** | 📱 **Senior Software Engineer | Applied AI & Mobile Systems** | 🚀 **Building tools for developers**
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
@@ -13,7 +13,8 @@
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
 
-> 10+ years building iOS apps at scale. Shipped products used by millions at Itaú, iFood, Mercado Livre, and OLX. Now exploring AI-powered developer tooling and Claude Code skills.
+> Building production-oriented AI systems, developer tools, and mobile platforms. 12+ years shipping software at scale across fintech, marketplaces and consumer products.
+Currently focused on AI Engineering, agents, evaluation, context engineering and Forward Deployed Engineering.
 
 ## Current Projects
 
